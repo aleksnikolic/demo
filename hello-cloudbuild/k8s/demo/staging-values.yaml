@@ -1,1 +1,5 @@
 environment: staging
+ingress:
+  enabled: enabled
+  path: /
+  hostname: demo-staging.thealeks.co.uk
